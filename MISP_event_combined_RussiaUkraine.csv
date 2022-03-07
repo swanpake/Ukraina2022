@@ -1,4 +1,8 @@
 category,type,value,comment,date
+Payload delivery,domain,video.twimg.com,TEST,1646063507
+Payload delivery,dst-ip,40.126.31.136,TEST,1646063507     
+Payload delivery,md5,2bcc4d98f26b4074a970fa87e6535eab,TEST,1646063507
+Payload delivery,sha256,b1f95b436950a9c0da27ed95ed4d904494965f59b538f20b686390cf360a957f,TEST,1646063507
 Payload delivery,sha256,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92,https://community.riskiq.com/article/8b229644/indicators,1646063507
 Payload delivery,md5,095a1678021b034903c85dd5acb447ad,https://community.riskiq.com/article/8b229644/indicators,1646063507
 Payload delivery,sha256,a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e,https://community.riskiq.com/article/8b229644/indicators,1646063507
