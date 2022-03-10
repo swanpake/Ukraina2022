@@ -1,4 +1,6 @@
 category,type,value,comment,date
+Payload delivery,sha1,8e3b40c0783cc88765bbc02ccc781960e4592f3f,test,1646063507
+Payload delivery,sha256,b36bd545ae992d1969908b9de7ceb5bd5ce53c6cfa0bbc8f92c0b805875e0786,test,1646063507
 Payload delivery,sha256,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92,https://community.riskiq.com/article/8b229644/indicators,1646063507
 Payload delivery,md5,095a1678021b034903c85dd5acb447ad,https://community.riskiq.com/article/8b229644/indicators,1646063507
 Payload delivery,sha256,a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e,https://community.riskiq.com/article/8b229644/indicators,1646063507
